@@ -1,13 +1,11 @@
 let data = {
-    "John_Doe Test": "john_doe",
-    "Sujeet landingPage": "flameRunner",
-    "Hp ToDo Bootstrap": "hp"
+    "deepeshnotcool": "README.md"
 }
 
 let chart = {
-    "john_doe": "john_doe"
+    "deepeshnotcool": "deepeshnotcool"
 }
 
 let navbar = {
-    "john_doe": "john_doe"
+    "deepeshnotcool": "deepeshnotcool"
 }

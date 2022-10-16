@@ -8,7 +8,7 @@
 # Front Yard
 <img align="right" width="114" alt="image" src="https://user-images.githubusercontent.com/91362856/195175312-d42d82e4-8c95-4619-933a-05aa1db88f1b.png">
 
-> Everyone is aware that October is a month for contributing to open source. Thus the Hacktober Fest is one way to do so while also earning awsome goodies. To assist you in participating in Hacktoberfest, the OSS Club has established a repository on GitHub.
+> Everyone is aware that October is a month for contributing to open source. Thus the Hacktober Fest is one way to do so while also earning awesome goodies. To assist you in participating in Hacktoberfest, the OSS Club has established a repository on GitHub.
 
 <p>Our is a complete solution for front end problems faced by the programmers. You can submit pull requests related to front end in this repository.This will not only assist you in finishing your 4PRs but also assist others in receiving front end at no charge.So i hope you will contribute on our repository.</p>
 
